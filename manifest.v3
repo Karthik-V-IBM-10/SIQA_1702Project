@@ -10,18 +10,17 @@
   <record name="requires" javaclass="com.wm.util.Values">
     <value name="SSL_JDBC_Test">1.0</value>
     <value name="JMS2waySSL">1.0</value>
-    <value name="PackX">1.0</value>
   </record>
   <null name="listACL"/>
   <value name="webappLoad">yes</value>
   <value name="reloadWithDependentPackage">yes</value>
-  <value name="build">13</value>
+  <value name="build">14</value>
   <null name="description"/>
   <value name="created_date">17-02-2025 03:26:43 GMT</value>
   <null name="extendedProperties"/>
   <null name="target_server_version"/>
   <value name="isProjectPackage">true</value>
-  <value name="lastUpdated">2025-02-17T09:34:03.450042396Z</value>
+  <value name="lastUpdated">2025-02-17T09:34:23.493528869Z</value>
   <value name="wmProjectId">fl644747198ad4f441fc5146</value>
   <value name="creator">siqa developer</value>
 </Values>

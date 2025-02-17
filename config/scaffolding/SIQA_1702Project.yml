@@ -48,26 +48,6 @@ services:
   packages:
   - name: WmPublic
     version: 11.1.0.0.2035
-- serviceName: project.siqa_1702.integrations:JMS_JNDI_SSL
-  packages:
-  - name: SIQA_1702Project
-    version: "1.0"
-  - name: JMS2waySSL
-    version: "1.0"
-  - name: SSL_JDBC_Test
-    version: "1.0"
-  - name: WmJDBCAdapter
-    version: 10.3.0.0.34
-    wpmServer: https://packages.webmethods.io
-    wpmRegistry: licensed
-- serviceName: publisher:publisher
-  packages:
-  - name: JMS2waySSL
-    version: "1.0"
-- serviceName: pub.jms:send
-  packages:
-  - name: WmPublic
-    version: 11.1.0.0.2035
 - serviceName: project.siqa_1702.integrations:SIQAAdapterFlow
   packages:
   - name: SIQA_1702Project
